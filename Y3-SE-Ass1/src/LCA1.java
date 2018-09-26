@@ -1,6 +1,7 @@
 
-public class LCA1 {
+public class LCA1
+{
 	
-	//firstcommit
+	
 
 }
